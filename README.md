@@ -18,7 +18,7 @@
 
 ### Experience 經歷
 Fu Jen Catholic University, major in information management\
-輔仁大學 資訊管理學系在讀中\
+輔仁大學 資訊管理學系在讀中
 
 ### Contact 信箱
- 📫 412401070@m365.fju.edu.tw\
+ 📫 412401070@m365.fju.edu.tw
