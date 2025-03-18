@@ -1,4 +1,5 @@
 ### Hi, I am Vicky 👋
+Name: 彭琪鈞
 
 <!--
 **Vickipediaa/Vickipediaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +18,8 @@
 ⚡ python 
 
 ### Experience 經歷
-Fu Jen Catholic University, major in information management\
+Bio: Fu Jen Catholic University, major in information management\
 輔仁大學 資訊管理學系在讀中
 
-### Contact 信箱
+### Social accounts / Contact 信箱
  📫 412401070@m365.fju.edu.tw
